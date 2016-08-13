@@ -8,7 +8,7 @@ $(document).ready(function () {
         dropdownMenu.show();
     }, function () {
         dropdownMenu.hide();
-    });
+    }); 
 
     /*nav*/
     var idNav = $('#nav-site');
