@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    /*drop-down-menu*/
+    /*drop-down-menu*/ 
     var dropdownMenu = $('.dropdown-menu');
     dropdownMenu.hide();
 
